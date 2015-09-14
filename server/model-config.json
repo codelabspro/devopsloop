@@ -35,5 +35,9 @@
   "DevOpsLoop": {
     "dataSource": "db",
     "public": true
+  },
+  "Product": {
+    "dataSource": "accountDs",
+    "public": true
   }
 }
